@@ -2,4 +2,3 @@ This is a test document - this is change to an existing line which will not conf
 This will be used to test Git's ability to perform various SCM operations
 Made this change via the GitHub website and edit feature.
 Made another change in the GitHub browser editor and resolved in Notepad++
-Change made with Notepad++ This new line should not conflict
