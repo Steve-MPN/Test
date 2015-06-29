@@ -1,0 +1,2 @@
+This is a test document
+This will be used to test Git's ability to perform various SCM operations
